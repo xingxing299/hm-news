@@ -1,5 +1,8 @@
 <template>
-  <div id="app">app</div>
+  <div id="app">
+    <!-- 路由出口 -->
+    <router-view></router-view>
+  </div>
 </template>
 
 <style lang="scss">
